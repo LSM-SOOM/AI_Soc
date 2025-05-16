@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("hi\n");
+	printf("lee su min\n");
 	return 0;
 }
 
