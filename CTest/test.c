@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("lee su min\n");
+	printf("나는 짱이야 lee su min\n");
 	return 0;
 }
 
